@@ -1,2 +1,2 @@
-# Computational-physics-codes
-MATLAB and Python scripts for a master level course on computational physics
+### Computational-physics-codes
+Scripts for a course on computational physics
